@@ -1,0 +1,2 @@
+# Online Pharmacy Portal
+ The Online Pharmacy Portal is a web-based application designed for convenient and secure access to pharmaceutical products. Built using HTML, CSS, and PHP, this project aims to streamline the process of browsing, ordering, and managing medications online. Users can explore a comprehensive range of prescription and over-the-counter drugs, check product details, and place orders for doorstep delivery.
